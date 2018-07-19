@@ -29,9 +29,8 @@
     { "seats":[38,44], "winner_to":42, "loser_to":null },
     { "seats":[50,56], "winner_to":54, "loser_to":null },
 
-
     { "seats":[35,42], "winner_to":36, "loser_to":null },
-    { "seats":[54,61], "winner_to":60, "loser_to":null },
+    { "seats":[61,54], "winner_to":60, "loser_to":null },
 
     { "seats":[36,60], "winner_to":48, "loser_to":null },
 
