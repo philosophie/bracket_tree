@@ -862,7 +862,7 @@
         188
       ],
       "winner_to": 184,
-      "loser_to": 435
+      "loser_to": 442
     },
     {
       "seats": [
@@ -1621,7 +1621,7 @@
         438,
         444
       ],
-      "winner_to": 442,
+      "winner_to": 435,
       "loser_to": null
     },
     {
@@ -3346,10 +3346,10 @@
       "position": 433
     },
     {
-      "position": 442
+      "position": 435
     },
     {
-      "position": 435
+      "position": 442
     },
     {
       "position": 438
